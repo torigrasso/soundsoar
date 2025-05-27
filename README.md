@@ -1,6 +1,6 @@
 # 🎧 SoundSoar
 
-**SoundSoar** is a music trend prediction system that uses Spotify audio features and machine learning to forecast whether a song will become popular. The project began as part of my 2024 data science research and has since evolved into a broader exploration of music analytics and cultural trend modeling. Go to soundsoar.com for more!
+**SoundSoar** is a music trend prediction system that uses Spotify audio features and machine learning to forecast whether a song will become popular. The project began as part of my 2024 data science research and has since evolved into a broader exploration of music analytics and cultural trend modeling. Go to [soundsoar.com](https://soundsoar.com)  for more!
 
 ---
 
